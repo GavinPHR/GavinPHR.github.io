@@ -3,10 +3,10 @@ layout: page
 title: Haoran Peng
 ---
 
-Computer science undergraduate in [School of Informatics, the University of Edinburgh](https://www.ed.ac.uk/informatics). Currently averaging >80%. 
+Computer science undergraduate in <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics, the University of Edinburgh</a>. Currently averaging >80%. 
 
 ### Contacts:
-Email: [hpeng2@ed.ac.uk](mailto:hpeng2@ed.ac.uk)
+Email: <a href="mailto:hpeng2@ed.ac.uk" target="_blank">hpeng2@ed.ac.uk</a>
 
 I reply to emails fairly quickly (much quicker than average).  
  Please keep your email short and concise.
@@ -22,16 +22,16 @@ I took this course in the 17/18 academic year under Professor Michael Fourman an
 
 ### Volunteering
 
-* [ICFP 2019](https://icfp19.sigplan.org/home)
-* [Turing Fest 2019](https://www.turingfest.com)
+* <a href="https://icfp19.sigplan.org/home" target="_blank">ICFP 2019</a>
+* <a href="https://www.turingfest.com" target="_blank">Turing Fest 2019</a>
 
 ### Certification
 
-* [Offensive Security Certified Professional (OSCP)](https://www.youracclaim.com/badges/81617d64-8207-4da3-987b-30921a556f1b/linked_in_profile) `Issued: Nov 2018`
+* <a href="https://www.youracclaim.com/badges/81617d64-8207-4da3-987b-30921a556f1b/linked_in_profile" target="_blank">Offensive Security Certified Professional (OSCP)</a> `Issued: Nov 2018`
 
 ### Summary of Courses Taken 
 
-[Official Course Summaries](http://www.drps.ed.ac.uk/19-20/dpt/cx_sb_infr.htm)
+<a href="http://www.drps.ed.ac.uk/19-20/dpt/cx_sb_infr.htm" target="_blank">Official Course Summaries</a>
 
 * **Year 3 - Ongoing**: Android App Project, Professional Issues, Machine Learning and Pattern Recognition, Introductory Vision and Robotics, Natural Language Processing, Computer Security, Group Robotics Project
 
@@ -42,6 +42,6 @@ I took this course in the 17/18 academic year under Professor Michael Fourman an
 
 ### Previous Education
 
-* [Kungsholmens Gymnasium](https://kungsholmensgymnasium.stockholm.se/), Stockholm, Sweden  
+* <a href="https://kungsholmensgymnasium.stockholm.se/" target="_blank">Kungsholmens Gymnasium</a>, Stockholm, Sweden  
 International Baccalaureate, 40/45  
 with Mathematics, Physics, Chemistry at higher level.
