@@ -3,7 +3,13 @@ layout: page
 title: Haoran Peng
 ---
 
-Computer science undergraduate in <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics, the University of Edinburgh</a>. Currently averaging 84%. 
+Computer science undergraduate in <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics, the University of Edinburgh</a>. Currently averaging 84% and expected to graduate in 2021.  
+
+### Current Highlight:
+Working full-time to improve the newly combined course <a href="http://www.drps.ed.ac.uk/19-20/dpt/cxinfr08025.htm" target="_blank">Informatics 1 - Introduction to Computation</a> in which we introduce propositional logic, finite state machines, and functional programming.  
+I am producing materials including <a href="notes.pdf">course notes</a> and <a href="sheet.pdf">tutorial sheets</a>. They are aimed at students without any prior knowledge in the field of computer science.   
+I am also investigating different technological solutions (Jupyter Notebook, repl.it, and HaSchool) that assist in programming teaching.  
+If you think you have something to contribute to this course, don't hesitate to contact me.
 
 ### Contacts:
 Email: <a href="mailto:hpeng2@ed.ac.uk" target="_blank">hpeng2@ed.ac.uk</a>
@@ -11,11 +17,12 @@ Email: <a href="mailto:hpeng2@ed.ac.uk" target="_blank">hpeng2@ed.ac.uk</a>
 I reply to emails fairly quickly (that is, much quicker than average).  
 ### Work Experience
 
-* Teaching Support, <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics, the University of Edinburgh</a> &nbsp; &nbsp; `May 2019 - Present`  
+* Teaching Support, <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics, the University of Edinburgh</a>  
+`May 2019 - Present`  
 Currently, I am working full-time to improve the course Introduction to Computation under the supervision of Professor Michael Fourman.  
-Preview of what I have done so far: <a href="notes.pdf">Course Notes for Informatics 1A - Introduction to Computation</a>
 
-* Tutor, Exam Inivigilator, Exam Maker, <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics, the University of Edinburgh</a> &nbsp; &nbsp; `Sep 2018 - Jan 2019`  
+* Tutor, Exam Inivigilator, Exam Maker, <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics, the University of Edinburgh</a>  
+`Sep 2018 - Jan 2019`  
 I was appointed to the teaching support role for the first-year informatics course Introduction to Computation. The course was comprised of two main topics – logic in computer science and functional programming with Haskell. My main duty was to deliver tutorials and respond to students' questions on Piazza. At the end of the course, I invigilated the programming exam and marked the written exam.  
 I took this course in the 17/18 academic year under Professor Michael Fourman and Professor Don Sannella. I achieved excellent results and have since been highly involved with the course.
 
