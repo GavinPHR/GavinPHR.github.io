@@ -3,20 +3,19 @@ layout: page
 title: Haoran Peng
 ---
 
-Computer science undergraduate in <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics, the University of Edinburgh</a>. Currently averaging >80%. 
+Computer science undergraduate in <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics, the University of Edinburgh</a>. Currently averaging 84%. 
 
 ### Contacts:
 Email: <a href="mailto:hpeng2@ed.ac.uk" target="_blank">hpeng2@ed.ac.uk</a>
 
-I reply to emails fairly quickly (much quicker than average).  
- Please keep your email short and concise.
-
+I reply to emails fairly quickly (that is, much quicker than average).  
 ### Work Experience
 
-* Teaching Support &nbsp; &nbsp; `May 2019 - Present`  
-Currently, I am working full-time to improve the course Introduction to Computation under the supervision of Professor Michael Fourman.
+* Teaching Support, <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics, the University of Edinburgh</a> &nbsp; &nbsp; `May 2019 - Present`  
+Currently, I am working full-time to improve the course Introduction to Computation under the supervision of Professor Michael Fourman.  
+Preview of what I have done so far: <a href="notes.pdf">Course Notes for Informatics 1A - Introduction to Computation</a>
 
-* Tutor, Exam Inivigilator, Exam Maker &nbsp; &nbsp; `Sep 2018 - Jan 2019`  
+* Tutor, Exam Inivigilator, Exam Maker, <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics, the University of Edinburgh</a> &nbsp; &nbsp; `Sep 2018 - Jan 2019`  
 I was appointed to the teaching support role for the first-year informatics course Introduction to Computation. The course was comprised of two main topics – logic in computer science and functional programming with Haskell. My main duty was to deliver tutorials and respond to students' questions on Piazza. At the end of the course, I invigilated the programming exam and marked the written exam.  
 I took this course in the 17/18 academic year under Professor Michael Fourman and Professor Don Sannella. I achieved excellent results and have since been highly involved with the course.
 
