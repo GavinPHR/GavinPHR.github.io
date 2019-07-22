@@ -19,7 +19,7 @@ Email: <a href="mailto:hpeng2@ed.ac.uk" target="_blank">hpeng2@ed.ac.uk</a>
 
 I reply to emails fairly quickly (that is, much quicker than average).  
 
-<a href="https://github.com/GavinPHR" target="_blank">GitHub</a> &ngsp; &ngsp; &ngsp; <a href="https://www.facebook.com/gavin.peng.98" target="_blank">Facebook</a>
+<a href="https://github.com/GavinPHR" target="_blank">GitHub</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.facebook.com/gavin.peng.98" target="_blank">Facebook</a>
 ### Work Experience
 
 * Teaching Support, <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics, the University of Edinburgh</a>  
@@ -49,7 +49,7 @@ I took this course in the 17/18 academic year under Professor Michael Fourman an
 * **Year 2**: Introductory Natural Language Processing, Introductory Algorithms and Data Structures, Introductory Machine Learning, Introductory Computer Architecture, Introductory Software Engineering, Probability, Discrete Maths
 
 * **Year 1**: Propositional Logic and Finite State Machines, Introductory Functional Programming with Haskell, Introductory OOP with Java, SQL and Basic databases, Linear Algebra, Single Variable Calculus.  
-`Electives: Classical Mechanics, Special Relativity, Introductory Quantum Mechanics, Multivariable (Vector) Calculus`
+`Electives: Classical Mechanics, Special Relativity, Introductory Quantum Mechanics, Multivariable (Vector) Calculus, Numerical Methods with Matlab`
 
 
 ### Previous Education
