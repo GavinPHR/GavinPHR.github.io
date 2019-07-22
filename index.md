@@ -6,15 +6,20 @@ title: Haoran Peng
 Computer science undergraduate in <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics, the University of Edinburgh</a>. Currently averaging 84% and expected to graduate in 2021.  
 
 ### Current Highlight:
-Working full-time to improve the newly combined course <a href="http://www.drps.ed.ac.uk/19-20/dpt/cxinfr08025.htm" target="_blank">Informatics 1 - Introduction to Computation</a> in which we introduce propositional logic, finite state machines, and functional programming.  
+Working full-time to improve the newly combined course <a href="http://www.drps.ed.ac.uk/19-20/dpt/cxinfr08025.htm" target="_blank">Informatics 1 - Introduction to Computation</a> in which we introduce propositional logic, finite state machines, and functional programming. 
+
 I am producing materials including <a href="notes.pdf">course notes</a> and <a href="sheet.pdf">tutorial sheets</a>. They are aimed at students without any prior knowledge in the field of computer science.   
+
 I am also investigating different technological solutions (Jupyter Notebook, repl.it, and HaSchool) that assist in programming teaching.  
+
 If you think you have something to contribute to this course, don't hesitate to contact me.
 
 ### Contacts:
 Email: <a href="mailto:hpeng2@ed.ac.uk" target="_blank">hpeng2@ed.ac.uk</a>
 
 I reply to emails fairly quickly (that is, much quicker than average).  
+
+<a href="https://github.com/GavinPHR" target="_blank">GitHub</a> &ngsp; &ngsp; &ngsp; <a href="https://www.facebook.com/gavin.peng.98" target="_blank">Facebook</a>
 ### Work Experience
 
 * Teaching Support, <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics, the University of Edinburgh</a>  
