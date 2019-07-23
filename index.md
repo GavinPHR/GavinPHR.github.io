@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Haoran Peng
+title: Haoran Peng (Gavin)
 ---
 
 <img src="background.jpg" alt="background">
 
-Computer science undergraduate in <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics, the University of Edinburgh</a>. Currently averaging 84% and expected to graduate in 2021.  
+Computer science undergraduate in <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics, the University of Edinburgh</a>. Currently averaging 84% and expected to graduate in 2021. 
 
 ### Current Highlight:
 Working full-time to improve the newly combined course <a href="http://www.drps.ed.ac.uk/19-20/dpt/cxinfr08025.htm" target="_blank">Informatics 1 - Introduction to Computation</a> in which we introduce propositional logic, finite state machines, and functional programming. 
