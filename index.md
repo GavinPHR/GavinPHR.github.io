@@ -3,7 +3,7 @@ layout: page
 title: Haoran Peng
 ---
 
-![background](background.jpg)
+<img src="background.jpg" alt="background">
 
 Computer science undergraduate in <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics, the University of Edinburgh</a>. Currently averaging 84% and expected to graduate in 2021.  
 
