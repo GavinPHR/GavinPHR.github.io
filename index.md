@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: Haoran Peng
@@ -9,14 +10,9 @@ Computer science undergraduate in <a href="https://www.ed.ac.uk/informatics" tar
 
 People usually call me **Gavin**.
 
-### Current Highlight:
-Working full-time to improve the newly combined course <a href="http://www.drps.ed.ac.uk/19-20/dpt/cxinfr08025.htm" target="_blank">Informatics 1 - Introduction to Computation</a> in which we introduce propositional logic, finite state machines, and functional programming. 
-
-I am producing materials including <a href="notes.pdf">**course notes**</a> and <a href="sheet.pdf">tutorial sheets</a>. They are aimed at students without any prior knowledge in the field of computer science.   
-
-I am also investigating different technological solutions (Jupyter Notebook, repl.it, and HaSchool) that assist in programming teaching.  
-
-If you think you have something to contribute to this course, don't hesitate to contact me.
+### Current Highlight (updated 14/09/19):
+Nothing in particular. The new term just started and I am quite busy as a third year student. 
+With that said, you are welcome to contact me if you have any queries regarding Informatics 1A.
 
 ### Contacts:
 Email: <a href="mailto:hpeng2@ed.ac.uk" target="_blank">hpeng2@ed.ac.uk</a>
@@ -26,9 +22,10 @@ I reply to emails fairly quickly (that is, **much** quicker than average).
 <a href="https://github.com/GavinPHR" target="_blank">GitHub</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.facebook.com/gavin.peng.98" target="_blank">Facebook</a>
 ### Work Experience
 
-* **Teaching Support**, <a href="https://www.ed.ac.uk/informatics" target="_blank">the University of Edinburgh</a>  
+* **Teaching Assistant**, <a href="https://www.ed.ac.uk/informatics" target="_blank">the University of Edinburgh</a>  
 `May 2019 - Present`  
-Currently, I am working full-time to improve the course Introduction to Computation under the supervision of Professor Michael Fourman.  
+Currently, I am a term time TA. The main duty is to produce new weekly tutorial sheets. I also carry out administrative tasks such as managing content online, answering questions on our course forum, attending different tutorials to ensure consistency. 
+During summer vacation (May - September), I worked full-time under the supervision of Professor Michael Fourman. I produced a comprehensive book covering the topics tought in the undergraduate informatics course Introduction to Computation. This course was recently changed and now includes substantial amount of functional programming in Haskell. Professor Fourman and I made considerable amount of effort to make course materials as seemless as possible. 
 
 * **Tutor**, **Exam Inivigilator**, **Exam Maker**, <a href="https://www.ed.ac.uk/informatics" target="_blank">the University of Edinburgh</a>  
 `Sep 2018 - Jan 2019`  
@@ -48,7 +45,7 @@ I took this course in the 17/18 academic year under Professor Michael Fourman an
 
 <a href="http://www.drps.ed.ac.uk/19-20/dpt/cx_sb_infr.htm" target="_blank">Official Course Summaries</a>
 
-* **Year 3 - Ongoing**: **Android App** Project, Professional Issues, **Machine Learning and Pattern Recognition**, Introductory **Vision** and **Robotics**, **Natural Language Processing**, Computer **Security**, Group **Robotics** Project
+* **Year 3 - Ongoing**: **Android App** Project, Professional Issues, **Machine Learning and Pattern Recognition**,  **Operating Systems**, **Numerical Recipes**, Computer **Security**, Group **Robotics** Project
 
 * **Year 2**: Introductory **Natural Language Processing**, Introductory **Algorithms** and **Data Structures**, Introductory **Machine Learning**, Introductory **Computer Architecture**, Introductory **Software Engineering**, **Probability**, **Discrete Maths**
 
