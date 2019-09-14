@@ -23,7 +23,7 @@ I reply to emails fairly quickly (that is, **much** quicker than average).
 
 * **Teaching Assistant**, <a href="https://www.ed.ac.uk/informatics" target="_blank">the University of Edinburgh</a>  
 `May 2019 - Present`  
-Currently, I am a term time TA. The main duty is to produce new weekly tutorial sheets. I also carry out administrative tasks such as managing content online, answering questions on our course forum, attending different tutorials to ensure consistency. 
+Currently, I am a term time TA. The main duty is to produce new weekly tutorial sheets. I also carry out administrative tasks such as managing content online, answering questions on our course forum, attending different tutorials to ensure consistency.  
 During summer vacation (May - September), I worked full-time under the supervision of Professor Michael Fourman. I produced a comprehensive book covering the topics tought in the undergraduate informatics course Introduction to Computation. This course was recently changed and now includes substantial amount of functional programming in Haskell. Professor Fourman and I made considerable amount of effort to make course materials as seemless as possible. 
 
 * **Tutor**, **Exam Inivigilator**, **Exam Maker**, <a href="https://www.ed.ac.uk/informatics" target="_blank">the University of Edinburgh</a>  
