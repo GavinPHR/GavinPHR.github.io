@@ -9,9 +9,8 @@ Computer science undergraduate in <a href="https://www.ed.ac.uk/informatics" tar
 
 People usually call me **Gavin**.
 
-### Current Highlight (updated 14/09/19):
-Nothing in particular. The new term just started and I am quite busy as a third year student. 
-With that said, you are welcome to contact me if you have any queries regarding Informatics 1A.
+### Current Highlight (updated 07/Jan/2020):
+I am trying to apply the theories I have learnt from Iain Murray's course **Machine Learning and Pattern Recognition** in real-world problems. To learn more practical machine learning, I am reading **Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow** by Aurélien Géron (fantastic book, would recommend). Get in touch if you are interested in Kaggling with me.
 
 ### Contacts:
 Email: <a href="mailto:hpeng2@ed.ac.uk" target="_blank">hpeng2@ed.ac.uk</a>
@@ -22,8 +21,8 @@ I reply to emails fairly quickly (that is, **much** quicker than average).
 ### Work Experience
 
 * **Teaching Assistant**, <a href="https://www.ed.ac.uk/informatics" target="_blank">the University of Edinburgh</a>  
-`May 2019 - Present`  
-Currently, I am a term time TA. The main duty is to produce new weekly tutorial sheets. I also carry out administrative tasks such as managing content online, answering questions on our course forum, attending different tutorials to ensure consistency.  
+`May 2019 - Jan 2020`  
+During term time, I produced weekly tutorial sheets. I also carried out administrative tasks such as managing content online, answering questions on our course forum, attending different tutorials to ensure consistency.  
 During summer vacation (May - September), I worked full-time under the supervision of Professor Michael Fourman. I produced a comprehensive book covering the topics tought in the undergraduate informatics course Introduction to Computation. This course was recently changed and now includes substantial amount of functional programming in Haskell. Professor Fourman and I made considerable amount of effort to make course materials as seemless as possible. 
 
 * **Tutor**, **Exam Inivigilator**, **Exam Maker**, <a href="https://www.ed.ac.uk/informatics" target="_blank">the University of Edinburgh</a>  
@@ -39,18 +38,6 @@ I took this course in the 17/18 academic year under Professor Michael Fourman an
 ### Certification
 
 * <a href="https://www.youracclaim.com/badges/81617d64-8207-4da3-987b-30921a556f1b/linked_in_profile" target="_blank">Offensive Security Certified Professional (**OSCP**)</a> &nbsp; &nbsp; `Issued: Nov 2018`
-
-### Summary of Courses Taken 
-
-<a href="http://www.drps.ed.ac.uk/19-20/dpt/cx_sb_infr.htm" target="_blank">Official Course Summaries</a>
-
-* **Year 3 - Ongoing**: **Android App** Project, Professional Issues, **Machine Learning and Pattern Recognition**,  **Operating Systems**, **Numerical Recipes**, Computer **Security**, Group **Robotics** Project
-
-* **Year 2**: Introductory **Natural Language Processing**, Introductory **Algorithms** and **Data Structures**, Introductory **Machine Learning**, Introductory **Computer Architecture**, Introductory **Software Engineering**, **Probability**, **Discrete Maths**
-
-* **Year 1**: Propositional **Logic** and Finite State **Machines**, Introductory Functional Programming with **Haskell**, Introductory OOP with **Java**, **SQL** and Basic databases, **Linear Algebra**, Single Variable **Calculus**.  
-`Electives: Classical Mechanics, Special Relativity, Introductory Quantum Mechanics, Multivariable (Vector) Calculus, Numerical Methods with Matlab`
-
 
 ### Previous Education
 
