@@ -10,7 +10,7 @@ Computer science undergraduate in <a href="https://www.ed.ac.uk/informatics" tar
 People usually call me **Gavin**.
 
 ### Current Highlight (updated 07/Jan/2020):
-I am trying to apply the theories I have learnt from Iain Murray's course **Machine Learning and Pattern Recognition** in real-world problems. To learn more practical machine learning, I am reading **Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow** by Aurélien Géron (fantastic book, would recommend). Get in touch if you are interested in Kaggling with me.
+I am applying the theories I have learnt from Iain Murray's course **Machine Learning and Pattern Recognition** in real-world problems. I am also reading **Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow** by Aurélien Géron (fantastic book, would recommend). Get in touch if you are interested in Kaggling with me.
 
 ### Contacts:
 Email: <a href="mailto:hpeng2@ed.ac.uk" target="_blank">hpeng2@ed.ac.uk</a>
