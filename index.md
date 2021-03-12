@@ -5,25 +5,27 @@ title: Haoran Peng
 
 <img src="background.jpg" alt="background">
 
-Computer science undergraduate in <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics, the University of Edinburgh</a>. Currently averaging **84%** and expected to graduate in 2021. 
+Final year computer science undergraduate at <a href="https://www.ed.ac.uk/informatics" target="_blank">the University of Edinburgh</a>. Currently averaging **84%**. 
 
 People usually call me **Gavin**.
 
-### Current Highlight (updated 07/Jan/2020):
-I am applying the theories I have learnt from Iain Murray's course **Machine Learning and Pattern Recognition** in real-world problems. I am also reading **Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow** by Aurélien Géron (fantastic book, would recommend). Get in touch if you are interested in Kaggling with me.
+### Current Highlight (updated 12/Mar/2021):
+I have just finalized the <a href="https://github.com/GavinPHR/Spectral-Parser" target="_blank">code for my final year project on Spectral Learning of Latent-Variable PCFGs</a>, supervised by Dr Shay Cohen. The model can be trained in under 10 minutes on a laptop CPU, and it achieves good parsing accuracy on PTB WSJ section 23.
+
+This coming October, I will be joining Oxford to do an <a href="http://www.cs.ox.ac.uk/admissions/graduate/msc-computer-science/" target="_blank">MSc in Advanced Computer Science</a>. 
 
 ### Contacts:
 Email: <a href="mailto:hpeng2@ed.ac.uk" target="_blank">hpeng2@ed.ac.uk</a>
 
-I reply to emails fairly quickly (that is, **much** quicker than average).  
+I reply to emails fairly quickly.  
 
 <a href="https://github.com/GavinPHR" target="_blank">GitHub</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.facebook.com/gavin.peng.98" target="_blank">Facebook</a>
 ### Work Experience
 
 * **Teaching Assistant**, <a href="https://www.ed.ac.uk/informatics" target="_blank">the University of Edinburgh</a>  
-`May 2019 - Jan 2020`  
+`May 2019 - Jan 2021`  
 During term time, I produced weekly tutorial sheets. I also carried out administrative tasks such as managing content online, answering questions on our course forum, attending different tutorials to ensure consistency.  
-During summer vacation (May - September), I worked full-time under the supervision of Professor Michael Fourman. I produced a <a href="book.pdf" target="_blank">comprehensive book</a> covering the topics tought in the undergraduate informatics course Introduction to Computation. This course was recently changed and now includes substantial amount of functional programming in Haskell. Professor Fourman and I made considerable amount of effort to make course materials as seemless as possible. 
+During summer vacation (May - September), I worked full-time under the supervision of Professor Michael Fourman. I produced a comprehensive set of notes, covering the topics tought in the undergraduate informatics course Introduction to Computation. Professor Don Sannella compiled the notes into a book that additionally covers functional programming, projected to be published summer 2021.
 
 * **Tutor**, **Exam Inivigilator**, **Exam Maker**, <a href="https://www.ed.ac.uk/informatics" target="_blank">the University of Edinburgh</a>  
 `Sep 2018 - Jan 2019`  
