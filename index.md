@@ -47,3 +47,6 @@ I took this course in the 17/18 academic year under Professor Michael Fourman an
 International Baccalaureate, 40/45  
 with English A Literature, Swedish B, Geography at SL  
 and Mathematics, Physics, Chemistry at HL.
+
+### Credits
+This page is made using <a href="https://github.com/nicolas-van/bootstrap-4-github-pages" target="_blank">Nicolas Vanhoren's template</a>. The layout is inspired by my personal tutor <a href="https://homepages.inf.ed.ac.uk/imurray2/" target="_blank">Professor Iain Murray's homepage</a>.
